@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NutriTrackPro</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_questionnaire">QuestionnaireActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_insight">InsightActivity</string>
+</resources>
