@@ -1,4 +1,4 @@
-# NutriTrack — Mobile Nutrition Tracker (FIT2081 Assignment)
+# NutriTrack — Mobile Nutrition Tracker
 
 **Version:** 1.0
 
