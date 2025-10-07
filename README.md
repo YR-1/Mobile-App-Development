@@ -53,7 +53,7 @@ NutriTrack is a Kotlin + Jetpack Compose Android app that helps users track food
 1. Clone the repository:
 
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/YR-1/Mobile-App-Development.git
    cd NutriTrackPro
    ```
 2. Open the project in **Android Studio**.
